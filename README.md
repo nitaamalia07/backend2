@@ -1,5 +1,5 @@
 📋 
-# Deskripsi Proyek
+## Deskripsi Proyek
 Medpoint API adalah RESTful API yang dikembangkan untuk mengelola data dokter dan jadwal praktik mereka. Proyek ini mencakup:
 
 -CRUD (Create, Read, Update, Delete) untuk data dokter dan jadwal.
