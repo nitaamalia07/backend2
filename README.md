@@ -38,9 +38,10 @@ Dokumentasi lengkap tersedia melalui Swagger.
 
 
 ### 🚀 Menjalankan Proyek
-Clone repository:
+-Clone repository:
 git clone https://github.com/nitaamalia07/backend2.git
+
 cd backend2
 
-Jalankan server:
+-Jalankan server:
 raiden run
