@@ -1,5 +1,5 @@
-📋 
-## Deskripsi Proyek
+ 
+### 📋 Deskripsi Proyek
 Medpoint API adalah RESTful API yang dikembangkan untuk mengelola data dokter dan jadwal praktik mereka. Proyek ini mencakup:
 
 -CRUD (Create, Read, Update, Delete) untuk data dokter dan jadwal.
@@ -11,8 +11,7 @@ Medpoint API adalah RESTful API yang dikembangkan untuk mengelola data dokter da
 -Penerapan Role-Based Access Control (RBAC) menggunakan Row Level Security (RLS) di Supabase.
 
 
-🔐 
-# Role-Based Access Control (RBAC)
+### 🔐 Role-Based Access Control (RBAC)
 Setiap endpoint (kecuali autentikasi) memerlukan JWT dan akses dibatasi berdasarkan peran pengguna:
 
 -Super Admin: Mengelola semua data (dokter, jadwal, pembayaran, pengguna).
@@ -24,8 +23,7 @@ Setiap endpoint (kecuali autentikasi) memerlukan JWT dan akses dibatasi berdasar
 -User/Pasien: Melihat data dokter dan jadwal, serta membuat reservasi.
 
 
-🛠️ 
-# Teknologi yang Digunakan
+### 🛠️ Teknologi yang Digunakan
 -Backend: Go (Golang)
 
 -Database: PostgreSQL melalui Supabase
@@ -35,13 +33,11 @@ Setiap endpoint (kecuali autentikasi) memerlukan JWT dan akses dibatasi berdasar
 -Dokumentasi API: Swagger/OpenAPI 3.0
 
 
-📑 
-# Dokumentasi API
+### 📑 Dokumentasi API
 Dokumentasi lengkap tersedia melalui Swagger. 
 
 
-🚀 
-# Menjalankan Proyek
+### 🚀 Menjalankan Proyek
 Clone repository:
 git clone https://github.com/nitaamalia07/backend2.git
 cd backend2
