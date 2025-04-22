@@ -45,10 +45,15 @@ cd backend2
 
 ### Recording
 Swagger: https://app.swaggerhub.com/apis/NitaAmalia/Backend/1.0.0
+
 Video:
+
 a. https://jam.dev/c/c79c033b-29fe-4dee-a391-0d730a563147
+
 b. https://jam.dev/c/747596bf-d0ba-4ad5-a457-f41776c8305e
+
 c. https://jam.dev/c/06f54898-36ef-4ce6-a434-818684dcbef1
+
 d. https://jam.dev/c/b09faf64-a770-4c3b-85be-860462a5d9e4
 
 -Jalankan server:
