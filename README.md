@@ -43,6 +43,9 @@ git clone https://github.com/nitaamalia07/backend2.git
 
 cd backend2
 
+-Jalankan server:
+raiden run
+
 ### Recording
 Swagger: https://app.swaggerhub.com/apis/NitaAmalia/Backend/1.0.0
 
@@ -56,5 +59,4 @@ c. https://jam.dev/c/06f54898-36ef-4ce6-a434-818684dcbef1
 
 d. https://jam.dev/c/b09faf64-a770-4c3b-85be-860462a5d9e4
 
--Jalankan server:
-raiden run
+
