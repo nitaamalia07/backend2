@@ -47,7 +47,7 @@ cd backend2
 raiden run
 
 ### Recording
-Swagger: https://app.swaggerhub.com/apis/NitaAmalia/Backend/1.0.0
+Maaf salah link kemaren Swagger: https://app.swaggerhub.com/apis/NitaAmalia/Backend/1.0.0
 
 Video:
 
